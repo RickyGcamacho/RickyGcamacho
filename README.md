@@ -27,6 +27,8 @@ Hi! I am a junior game developer and I have some projects done at the University
 
 [website]:https://rickygcamacho.itch.io/
 [Flesh City]:https://rickygcamacho.itch.io/flesh-city
+[![Game Thumbnail]([https://img.itch.zone/aW1nLzEzMzQ0NzI4LnBuZw==/original/vKJPCu.png)](https://rickygcamacho.itch.io/flesh-city)]
+
 #
 
 <details>
