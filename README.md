@@ -23,7 +23,13 @@ Hi! I am a junior game developer and I have some projects done at the University
 
 #
 
-### 📁 Portfolio    
+### 📁 Portfolio  
+
+#
+
+<details>
+ <summary><h3>👨‍💻 Forrest's Coding Journey</h3></summary>
+    
 [website]:https://rickygcamacho.itch.io/
 [Flesh City]:https://rickygcamacho.itch.io/flesh-city
     
