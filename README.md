@@ -31,6 +31,7 @@ Hi! I am a junior game developer and I have some projects done at the University
 
 <details>
  <summary><h3>👨‍💻 Ricky's Game Developer Journey</h3></summary>
+     I'm ricky gabriel camacho, a lifelong video game enthusiast with a passion for art. My journey began in argentina and led me to UADE university, where I specialized in game design, narrative design, and conceptual art. Graduating as a video game technician, I will contributed my creativity to industry-defining games, blending art, Game design and storytelling to shape unforgettable gaming experiences.
     
 [website]:https://rickygcamacho.itch.io/
 [Flesh City]:https://rickygcamacho.itch.io/flesh-city
