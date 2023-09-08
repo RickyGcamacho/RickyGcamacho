@@ -1,4 +1,4 @@
-# 🎮👾 Ricky Camacho
+# 🎮👾 Ricky G. Camacho
 
 **`Game Developer (Game Designer/ Game Conceptual Artist / Game Narrative Designer)`**
 
