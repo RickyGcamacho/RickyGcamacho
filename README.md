@@ -29,8 +29,8 @@ Hi! I am a junior game developer and I have some projects done at the University
 [Flesh City]:https://rickygcamacho.itch.io/flesh-city
 [![Game Thumbnail](https://img.itch.zone/aW1nLzEzMzQ0NTM3LmpwZw==/315x250%23c/B1bwbd.jpg)](https://rickygcamacho.itch.io/flesh-city)
 [![Game Thumbnail](https://img.itch.zone/aW1nLzEwMTQwOTcwLnBuZw==/315x250%23c/SE44DN.png)](https://rickygcamacho.itch.io/2d-space-invaders-type-game)
-
-
+[![Game Thumbnail](https://img.itch.zone/aW1nLzEzMjUxNDIwLmpwZw==/315x250%23c/KvE2s2.jpg)](https://rickygcamacho.itch.io/spoodermanthegame)
+[![Game Thumbnail](https://img.itch.zone/aW1nLzEzMjY5MjcxLmpwZw==/315x250%23c/5bByW5.jpg)](https://rickygcamacho.itch.io/zombies-dinner)
 #
 
 <details>
