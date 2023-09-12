@@ -1,18 +1,15 @@
 # 👾 Ricky G. Camacho
 
 **`Game Developer (Game Designer/ Game Conceptual Artist / Game Narrative Designer)`**
-
-Hi! I am a junior game developer and I have some projects done at the University. My goal is to work in an environment that provides me with long-term stability and helps me expand my professional skills. Finally, I consider myself a creative, committed and flexible person.
- LinkTree          
-
+         
 Hi there!
- I´m a Junior Game Designer / Narrative Designer / Game Concept Artist  from Argentina. Currently finishing my studies on a technical degree about Game Development in University!
+I´m a Junior Game Designer / Narrative Designer / Game Concept Artist  from Argentina. Currently finishing my studies on a technical degree about Game Development in University!
 
 I Would like to share you my passion about videogames, so feel free to  test three of my university projects that I´ve made: Spooderman, Space Dead, Flesh City and Zombies Dinner 
 
--There are more projects to come, so make sure you follow my  profile page so you can play them all! -
+-There are more projects to come, so make sure you follow my itch.io profile page so you can play them all! -
 
-Contact me:  LinkedIn  -or-  Rickygcamacho@Gmail.com
+Contact me: Rickygcamacho@Gmail.com
 
 
 
