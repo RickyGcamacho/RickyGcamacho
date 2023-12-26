@@ -38,7 +38,7 @@ Contact me: Rickygcamacho@Gmail.com
 [![Game Thumbnail](https://img.itch.zone/aW1nLzEzNDY3NDIyLnBuZw==/315x250%23c/4EsZc8.png)](https://rickygcamacho.itch.io/medieval-forest)
 [![Game Thumbnail](https://img.itch.zone/aW1nLzE0NDY5MDc0LnBuZw==/315x250%23c/azZePI.png)](https://rickygcamacho.itch.io/spoodermanthegame)
 [![Game Thumbnail](https://img.itch.zone/aW1nLzE0NDY5MTQxLnBuZw==/315x250%23c/55WXQk.png)](https://rickygcamacho.itch.io/zombies-dinner)
-[![Game Thumbnail](https://img.itch.zone/aW1nLzEzMzY4NDY3LmpwZw==/315x250%23c/bLBIXT.jpg)](https://rickygcamacho.itch.io/astro-adventure)
+[![Game Thumbnail](https://img.itch.zone/aW1nLzE0Mjc2NTcyLnBuZw==/315x250%23c/g%2FwQZY.png)](hhttps://rickygcamacho.itch.io/rite-of-redemption)
 [![Game Thumbnail](https://img.itch.zone/aW1nLzEzMzQ0NTM3LmpwZw==/315x250%23c/B1bwbd.jpg)](https://rickygcamacho.itch.io/flesh-city)
 [![Game Thumbnail](https://img.itch.zone/aW1nLzEzNDc2MzcxLnBuZw==/315x250%23c/bEIc6T.png)](https://rickygcamacho.itch.io/battle-city)
 
