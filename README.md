@@ -40,7 +40,7 @@ Contact me: Rickygcamacho@Gmail.com
 
 
 [![Game Thumbnail](https://img.itch.zone/aW1nLzEwMTQwOTcwLnBuZw==/315x250%23c/SE44DN.png)](https://rickygcamacho.itch.io/2d-space-invaders-type-game)
-[![Game Thumbnail](https://img.itch.zone/aW1nLzEzMjUxNDIwLmpwZw==/315x250%23c/KvE2s2.jpg)](https://rickygcamacho.itch.io/spoodermanthegame)
+[![Game Thumbnail](https://img.itch.zone/aW1nLzE0NDY5MDc0LnBuZw==/315x250%23c/azZePI.png)](https://rickygcamacho.itch.io/spoodermanthegame)
 [![Game Thumbnail](https://img.itch.zone/aW1nLzEzMjY5MjcxLmpwZw==/315x250%23c/5bByW5.jpg)](https://rickygcamacho.itch.io/zombies-dinner)
 [![Game Thumbnail](https://img.itch.zone/aW1nLzEzMzY4NDY3LmpwZw==/315x250%23c/bLBIXT.jpg)](https://rickygcamacho.itch.io/astro-adventure)
 [![Game Thumbnail](https://img.itch.zone/aW1nLzEzMzQ0NTM3LmpwZw==/315x250%23c/B1bwbd.jpg)](https://rickygcamacho.itch.io/flesh-city)
