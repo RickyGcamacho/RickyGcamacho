@@ -1,9 +1,9 @@
 # 👾 Ricky G. Camacho
 
-**`Game Developer (Game Designer/ Game Conceptual Artist / Game Narrative Designer)`**
+**`Game Developer (Game Designer/ Game Developer)`**
          
 Hi there!
-I´m a Junior Game Designer / Narrative Designer / Game Concept Artist  from Argentina. Currently finishing my studies on a technical degree about Game Development in University!
+I´m a Junior Game Designer / Game Developer  from Argentina. Currently finishing my studies on a technical degree about Game Development in University!
 
 I Would like to share you my passion about videogames, so feel free to  test three of my university projects that I´ve made: Spooderman, Space Dead, Flesh City and Zombies Dinner 
 
