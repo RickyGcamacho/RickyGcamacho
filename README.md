@@ -45,7 +45,7 @@ Contact me: Rickygcamacho@Gmail.com
 
 <details>
  <summary><h3>👨‍💻 Ricky's Game Developer Journey</h3></summary>
-     I'm ricky gabriel camacho, a lifelong video game enthusiast with a passion for art. My journey began in argentina and led me to UADE university, where I specialized in game design, narrative design, and conceptual art. Graduating as a video game technician will allow me to contribute my creativity to the games that will define the industry, combining art, game design and storytelling to shape unforgettable gaming experiences.
+I'm ricky gabriel camacho, a lifelong video game enthusiast with a passion for Game Design. My journey began in argentina and led me to UADE university, where I specialized in game design, narrative design, and game Development. Graduating as a video game technician will allow me to contribute my creativity to the games that will define the industry, combining game design, level design and world building to shape unforgettable gaming experiences.
     
 [website]:https://rickygcamacho.itch.io/
 [Flesh City]:https://rickygcamacho.itch.io/flesh-city
